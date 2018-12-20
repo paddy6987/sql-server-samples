@@ -35,8 +35,8 @@
         }
     },
     "variables": {
-        "gatewayPublicIpAddressName": "EUNUCSHANAVPN01_IP",
-        "gatewayName": "EUNUCSHANAVPN01",
+        "gatewayPublicIpAddressName": "EUNUCSHANAVGN01_IP",
+        "gatewayName": "EUNUCSHANAVGN01",
         "gatewaySku": "Basic",
         "gatewaySubnetName": "GatewaySubnet",
         "clientRootCertName": "RootCert"
