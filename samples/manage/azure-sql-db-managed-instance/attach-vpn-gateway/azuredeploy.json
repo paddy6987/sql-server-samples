@@ -35,8 +35,8 @@
         }
     },
     "variables": {
-        "gatewayPublicIpAddressName": "[concat('GatewayIP-', uniqueString(resourceGroup().id))]",
-        "gatewayName": "[concat('Gateway-', uniqueString(resourceGroup().id))]",
+        "gatewayPublicIpAddressName": "EUNUCSHANAVPN01_IP",
+        "gatewayName": "EUNUCSHANAVPN01",
         "gatewaySku": "Basic",
         "gatewaySubnetName": "GatewaySubnet",
         "clientRootCertName": "RootCert"
